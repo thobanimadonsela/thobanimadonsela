@@ -1,4 +1,4 @@
-# Stats
+# Weekly Stats
 
  [![Thobani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thobanimadonsela)](https://github.com/thobanimadonsela/)
 
