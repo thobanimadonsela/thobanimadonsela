@@ -1,3 +1,3 @@
 ![Python](https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  ![FastAPI](https://img.shields.io/badge/FastAPI-%23121011.svg?style=for-the-badge&logo=fastapi) ![VSCode](https://img.shields.io/badge/VSCode-%23121011.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-[![Thobani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thobanimadonsela)](https://github.com/thobanimadonsela/)
+[![Thobani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmadonsela)](https://github.com/thobanimadonsela/)
